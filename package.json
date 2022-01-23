@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/danielkiyuna/Portfolio#readme",
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "superagent": "^7.1.1"
   }
 }
